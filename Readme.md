@@ -2,7 +2,7 @@
 
 ## Source code
 - **Frontend**: [https://aasc-round-2-fe.vercel.app/](https://aasc-round-2-fe.vercel.app/)
-- **Backend**: [GitHub Repository](https://github.com/duyhung2k4/aasc-interview-round-2-be)
+- **Backend**: [https://github.com/duyhung2k4/aasc-interview-round-2-be](https://github.com/duyhung2k4/aasc-interview-round-2-be)
 
 
 
