@@ -1,0 +1,16 @@
+.box_select {
+    position: absolute;
+    background-color: #2F2F2F;
+    width: 100%;
+    margin-top: 2px;
+}
+
+.item_select {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.item_select:hover {
+    background-color: gray;
+    z-index: 10;
+}

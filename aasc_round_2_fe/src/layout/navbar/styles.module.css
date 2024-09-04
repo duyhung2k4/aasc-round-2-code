@@ -1,0 +1,27 @@
+:root {
+    --transition-md: 150ms;
+}
+
+.root {
+    padding: 0px 16px 16px 16px;
+}
+
+.link {
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 4px;
+    transition: var(--transition-md);
+}
+
+.link:hover {
+    transition: var(--transition-md);
+    font-size: 18px;
+    font-weight: 500;
+    text-shadow: 0px 0px 25px rgb(255, 255, 255);
+}
+
+.link_active {
+    background-color: #0D6EFD;
+    transition: var(--transition-md);
+}
