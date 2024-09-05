@@ -1,7 +1,9 @@
 # AASC Round 2
+- **Link**: [https://aasc-round-2-fe.vercel.app/](https://aasc-round-2-fe.vercel.app/)
 
 ## Source code
-- **Frontend**: [https://aasc-round-2-fe.vercel.app/](https://aasc-round-2-fe.vercel.app/)
+
+- **Frontend**: [https://github.com/duyhung2k4/aasc_round_2_fe](https://github.com/duyhung2k4/aasc_round_2_fe)
 - **Backend**: [https://github.com/duyhung2k4/aasc-interview-round-2-be](https://github.com/duyhung2k4/aasc-interview-round-2-be)
 
 
