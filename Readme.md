@@ -18,5 +18,5 @@ Nếu bạn muốn sử dụng tài khoản có sẵn, đây là thông tin đă
 
 
 
-- **Client ID**: `local.66c69639e49325.05143351`
+- **Client ID**: `local.66dc3e6d77ae04.31731430`
 - **Mật khẩu**: `123456`
